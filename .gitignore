@@ -1,0 +1,31 @@
+
+*.pdf
+NoteBooks/dataset/arxiv.zip
+NoteBooks/enzymes/ENZYMES/processed/data.pt
+NoteBooks/enzymes/ENZYMES/processed/pre_filter.pt
+NoteBooks/enzymes/ENZYMES/processed/pre_transform.pt
+NoteBooks/enzymes/ENZYMES/raw/ENZYMES_A.txt
+NoteBooks/enzymes/ENZYMES/raw/ENZYMES_graph_indicator.txt
+NoteBooks/enzymes/ENZYMES/raw/ENZYMES_graph_labels.txt
+NoteBooks/enzymes/ENZYMES/raw/ENZYMES_node_attributes.txt
+NoteBooks/enzymes/ENZYMES/raw/ENZYMES_node_labels.txt
+NoteBooks/enzymes/ENZYMES/raw/README.txt
+<<<<<<< HEAD
+NoteBooks/dataset/ogbn_arxiv/RELEASE_v1.txt
+NoteBooks/dataset/ogbn_arxiv/mapping/nodeidx2paperid.csv.gz
+NoteBooks/dataset/ogbn_arxiv/mapping/README.md
+NoteBooks/dataset/ogbn_arxiv/processed/geometric_data_processed.pt
+NoteBooks/dataset/ogbn_arxiv/processed/pre_filter.pt
+NoteBooks/dataset/ogbn_arxiv/processed/pre_transform.pt
+NoteBooks/dataset/ogbn_arxiv/raw/edge.csv.gz
+NoteBooks/dataset/ogbn_arxiv/raw/node_year.csv.gz
+NoteBooks/dataset/ogbn_arxiv/raw/node-feat.csv.gz
+NoteBooks/dataset/ogbn_arxiv/raw/node-label.csv.gz
+NoteBooks/dataset/ogbn_arxiv/raw/num-edge-list.csv.gz
+NoteBooks/dataset/ogbn_arxiv/raw/num-node-list.csv.gz
+NoteBooks/dataset/ogbn_arxiv/split/time/test.csv.gz
+NoteBooks/dataset/ogbn_arxiv/split/time/valid.csv.gz
+NoteBooks/dataset/ogbn_arxiv/split/time/train.csv.gz
+NoteBooks/dataset/ogbn_arxiv/mapping/labelidx2arxivcategeory.csv.gz
+=======
+>>>>>>> parent of 10ba2d7 (Added to gitignore)
